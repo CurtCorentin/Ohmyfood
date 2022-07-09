@@ -116,7 +116,7 @@ border-radius: 20px;}
 .produits .h3{margin-left:3%;
 overflow: hidden;
 width: auto;
-height: 40px;
+
 font-size: 2em;
 text-align: start;
 white-space: nowrap;
@@ -135,7 +135,7 @@ text-align: start;}
 
 .span{text-overflow: ellipsis;
 width:460px;
-height: 35px;
+
 overflow: hidden;
 white-space: nowrap;
 color: rgb(82, 82, 82);
