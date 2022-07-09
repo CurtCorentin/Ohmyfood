@@ -65,7 +65,7 @@ color: black;}
 
 .fa-heartnone{z-index: 1;     opacity: 0;     transition: 0.5s;}
 
-.fa-heart:active{color: blueviolet;    width: 30px;   opacity: 1;}
+.fa-heart:hover{color: blueviolet;    width: 30px;   opacity: 1;}
 
 .hr{height: 50px;   margin-top: 50px;     margin-bottom: 10px;}
 
@@ -166,20 +166,20 @@ height: 40px;
 width: 40px;
 font-size: 3em;}
 
-.produits:active i{  animation: rotate-in-center 1.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;}
+.produits:hover i{  animation: rotate-in-center 1.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;}
 
-.produits1:active .validation1{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
-.produits2:active .validation2{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
-.produits3:active .validation3{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
-.produits4:active .validation4{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
-.produits5:active .validation5{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
-.produits6:active .validation6{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
-.produits7:active .validation7{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
-.produits8:active .validation8{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
-.produits9:active .validation9{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
+.produits1:hover .validation1{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
+.produits2:hover .validation2{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
+.produits3:hover .validation3{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
+.produits4:hover .validation4{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
+.produits5:hover .validation5{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
+.produits6:hover .validation6{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
+.produits7:hover .validation7{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
+.produits8:hover .validation8{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
+.produits9:hover .validation9{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
 
-.produits:active .tarif{padding-right: 90px;    transition: 1s;}
-.produits:active .h3{padding-right: 100px; transition: 1s;}
+.produits:hover .tarif{padding-right: 90px;    transition: 1s;}
+.produits:hover .h3{padding-right: 100px; transition: 1s;}
 .buttonC{border: none;
 margin-top: 80px;
 margin-bottom:100px;
@@ -193,7 +193,7 @@ background: rgb(255,121,218);
 background: linear-gradient(171deg, rgba(255,121,218,1) 0%, rgba(147,86,220,1) 94%);
 border-radius: 50px;}
 
-.buttonC:active{color:#99E2D0}
+.buttonC:hover{color:#99E2D0}
 
 footer{font-size:2em;   color:white; height: 400px;   background:black;}
 
