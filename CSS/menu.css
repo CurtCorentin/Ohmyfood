@@ -87,12 +87,14 @@ align-content: space-between;
 border-radius: 50px 50px 0px 0px;
 height: 2000px;}
 
-section h4{font-size: 2em;
+section .h4{font-size: 2em;
+  font-family: 'Franklin Gothic lower', 'Arial Narrow', Arial, sans-serif;
 margin-left: 5%;
 width:auto;
 margin-top: 10px;
 height: 40PX;
-margin-bottom: 0;}
+margin-bottom: 0;
+}
 
 h1{font-size: 2.5em;
 margin-left: 5%;
@@ -116,7 +118,7 @@ border-radius: 20px;}
 .produits .h3{margin-left:3%;
 overflow: hidden;
 width: auto;
-
+margin-top: 12px;
 font-size: 2em;
 text-align: start;
 white-space: nowrap;
@@ -179,7 +181,7 @@ font-size: 3em;}
 .produits9:hover .validation9{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
 .produits10:hover .validation10{ animation: scale-in-hor-right 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    opacity: 0; opacity: 1;}
 
-.produits:hover .tarif{padding-right: 90px;    transition: 1s;}
+.produits:hover .tarif{padding-right: 100px;    transition: 1s;}
 .produits:hover .h3{padding-right: 100px; transition: 1s;}
 .buttonC{border: none;
 margin-top: 80px;
@@ -236,6 +238,10 @@ margin-right: 25%;}
 
 .produits .p{margin-right: 7%;}
   
+.produits .h3{margin-top: 20px;}
+
+.produits:hover .tarif{padding-right: 90px; }
+
 footer i{width:45px;}
 
 footer li{width: 330px;}
