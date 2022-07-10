@@ -196,7 +196,7 @@ border-radius: 50px;}
 
 .buttonC:hover{color:#99E2D0}
 
-footer{font-size:2em;   color:white; height: 400px;   background:black;}
+footer{font-size:2em;   color:white; height: auto;   background:black;}
 
 footer ul{margin-bottom:50px;}
 
