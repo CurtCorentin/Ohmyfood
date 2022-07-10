@@ -35,7 +35,7 @@
 
 
 .loader{width: 100%;
-height:4132px;
+height:4122px;
 background: rgb(255,121,218);
 background: linear-gradient(140deg, rgba(255,121,218,1) 0%, rgba(147,86,220,1) 40%);
 position: absolute;
@@ -134,9 +134,9 @@ font-size: 3em;
 text-align: start;    
 margin-left: 3%;}
 
-main i{width: 30px;   padding-right: 100px;    font-size: 1.3em;color:rgb(112, 112, 112); }
+main i{width: 30px;  padding-right: 5%;    font-size: 1.3em;color:rgb(112, 112, 112); }
 
-.fa-ellipsis-vertical{padding: 0;}
+.fa-ellipsis-vertical{padding-right:0 ;}
 
 main .button{border: none;
 margin-bottom: 30px;
@@ -155,7 +155,7 @@ main .button:hover .fa-solid{color: #9356DC ;}
 
 main .button:hover {background: #9256dc34; box-shadow: 0 0 30px 5.5px #ddd;}
 
-.fa-1,.fa-2,.fa-3{width: 50px;
+.fa-1,.fa-2,.fa-3{width: 30px;
 height: 40px;
 transform: translateX(-24px);
 background: #9356DC ;
@@ -286,11 +286,11 @@ height: 3197PX;}
 
 nav .button{width: 500px;    height: 100px;}
 
-main i{width: 30px;     padding-right: 20px;}
 
-.fa-1,.fa-2,.fa-3{margin-right: 50px;font-size: 0.9em;}
 
-.fa-2{margin-right:40px;}
+.fa-1,.fa-2,.fa-3{font-size: 0.9em;}
+
+.fa-ellipsis-vertical{margin-left: 0px;}
 
 section img {height: 250px;}
     
@@ -304,7 +304,7 @@ section .photo{height: 100px;}
 
 
 
-.fa-ellipsis-vertical{transform: translateX(5px);}
+
 
 footer i{padding-right:45px;}
 
@@ -352,9 +352,9 @@ height: 30px;
 font-size: 0.75em;
 padding-top: 9px;
 padding-bottom: 1px;
-margin-right: 10px;}
+margin-right: 30px;}
 
-.fa-2{margin-right:5px;}
+.fa-2{margin-right: 18px;}
 
 
 
@@ -370,7 +370,7 @@ section .photo{height: 80px;    width: 90%;    margin-left: 5%;    margin-right:
     
 .new2{top:1520px;}
 
-.fa-ellipsis-vertical{transform: translateX(10px);}
+.fa-ellipsis-vertical{transform: translateX(5px);}
 
 footer li{font-size: 1em;}
 
