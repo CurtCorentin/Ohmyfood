@@ -31,11 +31,11 @@
 
 .buttonexplor{padding: 20px;}
 
-.marg{margin-top: 30px;}
+.marg{margin-top: 60px;}
 
 
 .loader{width: 100%;
-height:4125px;
+height:4194px;
 background: rgb(255,121,218);
 background: linear-gradient(140deg, rgba(255,121,218,1) 0%, rgba(147,86,220,1) 40%);
 position: absolute;
@@ -107,11 +107,11 @@ background: none;
 border: none;
 font-size: 2.7em;}
 
-nav{height: auto;padding-bottom: 50px;    text-align: center;    background :rgba(98,101,80,0.1);}
+nav{height: auto;padding-bottom: 90px;    text-align: center;    background :rgba(98,101,80,0.1);}
 
 h1{font-size: 3em;    margin-top: 40px; }
 
-nav p{margin-top: 20px;    font-size:2.5em;    text-align: center; color:rgb(112, 112, 112);font-weight:lighter;}
+nav p{margin-top: 20px;    font-size:2.5em;    text-align: center; color:rgb(112, 112, 112);font-weight:100;}
 
 nav .button{border: none;
 margin-top: 60px;
@@ -236,9 +236,9 @@ color: green;
 border-radius: 3px;
 right: 19%}
 
-.new1{top:1440px;}
+.new1{top:1500px;}
 
-.new2{top:2040px;}
+.new2{top:2100px;}
 
 footer{height:auto;   color: white;    background: black;   font-size: 2em;}
 
@@ -271,7 +271,7 @@ footer i{width: 0px;  height: auto;  padding-right: 60px;}
 *{font-size: 0.92em}
 
 .loader{font-size: 1.5em;
-height: 3146.5PX;}
+height: 3212PX;}
 
 .load{width: 220px;}
 
@@ -293,15 +293,15 @@ nav .button{width: 500px;    height: 100px;}
 
 .fa-ellipsis-vertical{transform: translateX(3px);}
 
-section img {height: 250px;}
+section img {height: 250px;width: 70%;    margin-left: 15%;    margin-right:15% ;}
     
-section .photo{height: 100px;}
+section .photo{height: 100px;width: 70%;    margin-left: 15%;    margin-right:15% ;}
 
 .new{  width: 120px;    height: 50px;}
 
-.new1{top:1310px;}
+.new1{top:1370px;}
     
-.new2{top:1710px;}
+.new2{top:1770px;}
 
 
 
@@ -328,7 +328,7 @@ footer i{padding-right:45px;}
 @media screen and (max-width: 768px){
   *{font-size: 0.88em}
 
-.loader{font-size: 1.7em;height: 2746PX;}
+.loader{font-size: 1.7em;height: 2820PX;}
 
 .title img{margin-top: 30px;    width: 220px;}
 
@@ -369,9 +369,9 @@ section .photo{height: 80px;    width: 90%;    margin-left: 5%;    margin-right:
 
 .new{right: 8%;     width: 80px;    height: 40px; font-size: 1.5em;}
 
-.new1{top:1190px;}
+.new1{top:1260px;}
     
-.new2{top:1520px;}
+.new2{top:1590px;}
 
 .fa-ellipsis-vertical{transform: translateX(5px);}
 
