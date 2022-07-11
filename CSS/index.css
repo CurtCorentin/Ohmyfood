@@ -185,8 +185,6 @@ border-radius: 0px 0px 20px 20px;}
 
 section{height:auto;  margin-top: 50px;  background :rgba(98,101,80,0.1);  padding-bottom:40px;}
 
-
-
 img,.photo{box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.45);}
 
 section img {margin-top: 50px;
@@ -334,7 +332,7 @@ footer i{padding-right:45px;}
 @media screen and (max-width: 768px){
   *{font-size: 0.88em}
 
-.loader{font-size: 1.7em;height: 2820PX;}
+.loader{font-size: 1.7em;height: 2803PX;}
 
 .title img{margin-top: 30px;    width: 220px;}
 
@@ -342,9 +340,9 @@ footer i{padding-right:45px;}
 
 
 
-nav h1{font-size: 3.8em;}
 
-nav .button{height: 70px;    width: 300px;}
+
+.buttonexplor{padding: 20px;}
 
 main .button{
 margin-bottom: 30px;
@@ -387,3 +385,19 @@ footer i{padding-right: 30px;}
 
 }
 
+
+
+
+
+
+@media screen and (max-width: 450px){
+  .position input{width: 120px;}
+  nav,main,.position{font-size: 0.6em;}
+  .fa-1,.fa-2,.fa-3{
+    width: 30px;
+    height: 20px;
+    padding-right: 1px;
+    padding-left: 1px;
+    padding-bottom: 5px;
+    transform: translateX(-15px);}
+}
