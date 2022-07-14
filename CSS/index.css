@@ -26,7 +26,7 @@
  }
 
 .footertitle{
-  filter: invert(100%) ;height: 50px;width: 200px;
+  filter: invert(100%) ;height:50px;width: 250px;
 }
 
 .footertitle img{box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);}
@@ -282,7 +282,7 @@ footer i{width: 0px;  height: auto;  padding-right: 60px;}
 *{font-size: 0.92em}
 
 .loader{font-size: 1.5em;
-height: 3250PX;}
+height: 3244PX;}
 
 .load{width: 220px;}
 
@@ -308,6 +308,8 @@ section .photo{height: 100px;width: 60%;    margin-left: 20%;    margin-right:20
     
 .new2{top:1770px;}
 
+.footertitle{width: 200px;}
+
 footer i{padding-right:45px;}
 }
     
@@ -326,9 +328,9 @@ footer i{padding-right:45px;}
 @media screen and (max-width: 768px){
   *{font-size: 0.88em}
 
-.loader{font-size: 1.7em;height: 2850PX;}
+.loader{font-size: 1.7em;height: 2812PX;}
 
-.title img{margin-top: 30px;    width: 220px;}
+.title img{margin-top: 30px;    width: 200px;}
 
 .position p{height: 80px;}
 
@@ -373,6 +375,8 @@ section .photo{height: 80px;    width: 90%;    margin-left: 5%;    margin-right:
 
 .fa-ellipsis-vertical{transform: translateX(5px);}
 
+.footertitle{width: 200px;}
+
 footer li{font-size: 1em;}
 
 footer i{padding-right: 30px;}
@@ -385,7 +389,7 @@ footer i{padding-right: 30px;}
 
 
 @media screen and (max-width: 450px){
-.loader{height: 2785px;}
+.loader{height: 2781px;}
 .loader .load{max-width: 100%;}
 
 .title img{max-width: 100%;}
@@ -409,4 +413,6 @@ main{height:487px}
     .new1{top:1200px;}
     
 .new2{top:1530px;}
+
+.footertitle{width: 150px;}
 }
