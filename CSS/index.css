@@ -40,7 +40,7 @@
 
 
 .loader{width: 100%;
-height:4194px;
+height:4210px;
 background: rgb(255,121,218);
 background: linear-gradient(140deg, rgba(255,121,218,1) 0%, rgba(147,86,220,1) 40%);
 position: absolute;
@@ -180,13 +180,6 @@ color: white;}
 
 .fa-2{margin-right:90px;}
 
-.photo{transform: translateY(-10px);
-height: 150px;
-width: 66%;
-margin-left: 17%;
-margin-right:17% ;
-background: white;
-border-radius: 0px 0px 20px 20px;}
 
 section{height:auto;  margin-top: 50px;  background :rgba(98,101,80,0.1);  padding-bottom:40px;}
 
@@ -194,10 +187,19 @@ img,.photo{box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.45);}
 
 section img {margin-top: 50px;
 height: 400px;
-width: 40%;
-margin-left: 30%;
-margin-right:30% ;
+width: 50%;
+margin-left: 25%;
+margin-right:25% ;
 border-radius: 20px 20px 0px 0px;}
+
+.photo{transform: translateY(-10px);
+  height: 150px;
+  width: 50%;
+  margin-left: 25%;
+  margin-right:25% ;
+  background: white;
+  border-radius: 0px 0px 20px 20px;}
+  
 
 section h2{margin-top: 60px;    font-size: 3em;    text-align: start;   margin-left: 3%;}
 
@@ -243,7 +245,7 @@ align-items: center;
 font-size: 2em;
 color: green;
 border-radius: 3px;
-right: 19%}
+right: 27%}
 
 .new1{top:1500px;}
 
@@ -280,7 +282,7 @@ footer i{width: 0px;  height: auto;  padding-right: 60px;}
 *{font-size: 0.92em}
 
 .loader{font-size: 1.5em;
-height: 3214PX;}
+height: 3250PX;}
 
 .load{width: 220px;}
 
@@ -296,11 +298,11 @@ nav .button{width: 500px;    height: 100px;}
 
 .fa-ellipsis-vertical{transform: translateX(3px);}
 
-section img {height: 250px;width: 70%;    margin-left: 15%;    margin-right:15% ;}
+section img {height: 250px;width: 60%;    margin-left: 20%;    margin-right:20% ;}
     
-section .photo{height: 100px;width: 70%;    margin-left: 15%;    margin-right:15% ;}
+section .photo{height: 100px;width: 60%;    margin-left: 20%;    margin-right:20% ;}
 
-.new{  width: 120px;    height: 50px;right:16.5%}
+.new{  width: 120px;    height: 50px;right:22%}
 
 .new1{top:1370px;}
     
@@ -324,7 +326,7 @@ footer i{padding-right:45px;}
 @media screen and (max-width: 768px){
   *{font-size: 0.88em}
 
-.loader{font-size: 1.7em;height: 2789PX;}
+.loader{font-size: 1.7em;height: 2850PX;}
 
 .title img{margin-top: 30px;    width: 220px;}
 
@@ -383,7 +385,7 @@ footer i{padding-right: 30px;}
 
 
 @media screen and (max-width: 450px){
-.loader{height: 2756px;}
+.loader{height: 2785px;}
 .loader .load{max-width: 100%;}
 
 .title img{max-width: 100%;}
