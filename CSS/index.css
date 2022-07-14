@@ -275,23 +275,17 @@ footer i{width: 0px;  height: auto;  padding-right: 60px;}
 *{font-size: 0.92em}
 
 .loader{font-size: 1.5em;
-height: 3212PX;}
+height: 3214PX;}
 
 .load{width: 220px;}
-
-
 
 .title img{width: 300px;}
    
 .position i{width: 10px;    font-size: 3.2em;}
 
 .search {margin-left: 20px;    height: 50px;   font-size: 3.2em;}
-   
-
 
 nav .button{width: 500px;    height: 100px;}
-
-
 
 .fa-1,.fa-2,.fa-3{font-size: 0.9em;}
 
@@ -307,14 +301,7 @@ section .photo{height: 100px;width: 70%;    margin-left: 15%;    margin-right:15
     
 .new2{top:1770px;}
 
-
-
-
-
 footer i{padding-right:45px;}
-
-
-
 }
     
 
@@ -332,7 +319,7 @@ footer i{padding-right:45px;}
 @media screen and (max-width: 768px){
   *{font-size: 0.88em}
 
-.loader{font-size: 1.7em;height: 2790PX;}
+.loader{font-size: 1.7em;height: 2789PX;}
 
 .title img{margin-top: 30px;    width: 220px;}
 
@@ -392,9 +379,13 @@ footer i{padding-right: 30px;}
 
 @media screen and (max-width: 450px){
 .loader{height: 2756px;}
+.loader .load{max-width: 100%;}
 
+.title img{max-width: 100%;}
   .position input{width: 120px;}
   nav,main,.position{font-size: 0.65em;}
+.p{font-size: 0.3em;}
+h2,h3,li{max-width: 100%;}
 
 nav{height: 321px; padding-bottom: 0;}
 
